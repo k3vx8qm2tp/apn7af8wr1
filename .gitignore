@@ -1,0 +1,8 @@
+*.xlsx
+*.xlsm
+*.xls
+*.pkl
+*.csv
+*.py
+*.js
+~$*
